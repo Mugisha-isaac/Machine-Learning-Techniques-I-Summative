@@ -58,3 +58,31 @@ This project is for educational purposes. Please review the license terms of any
 
 ## Contact
 For questions or feedback, please contact the project maintainer.
+
+## Example Visualizations
+
+Below are example visualizations generated from the notebook:
+
+![Training Loss Curve](training_curves.png)
+
+*Training Loss Curve: Shows the reduction in loss as training progresses.*
+
+## Chatbot Demo Example
+
+The notebook includes a Gradio chatbot interface. Here is a sample prompt and response:
+
+**Prompt:** How should I allocate my savings?
+
+**Response:**
+
+1. Emergency Fund:
+First and foremost, it's essential to have an emergency fund in place. This fund should cover 3-6 months of living expenses in case of unexpected events like job loss, medical emergencies, or car repairs. Aim to save 10% to 20% of your gross income in this fund.
+
+2. Retirement Savings:
+Consider contributing to a retirement account, such as a 401(k) or IRA. These accounts offer tax benefits and can help you save for your golden years. Aim to save at least 10% to 15% of your gross income towards retirement.
+
+3. Other Savings Goals:
+Identify other savings goals, such as saving for a down payment on a house, a vacation, or a big purchase. Allocate a portion of your savings towards these goals based on their priority and timeline.
+
+4. Asset Allocation:
+Diversify your savings across different asset classes, such as stocks, bonds, and real estate. This can help reduce risk and increase potential returns. Aim to allocate 5% to 10% of your savings towards each asset class, depending on your risk tolerance and financial goals.
