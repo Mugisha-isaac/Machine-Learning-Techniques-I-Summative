@@ -13,7 +13,11 @@ This project demonstrates the process of fine-tuning a pre-trained language mode
 3. **Dataset Preparation**: A curated finance instruction-response dataset is formatted and split for training and evaluation.
 4. **Function & Class Definitions**: Helper functions and callback classes are defined for training and inference.
 5. **Model Setup & Fine-Tuning**: A pre-trained LLM is loaded and fine-tuned using LoRA. Hyperparameters are documented.
-6. **Evaluation & Visualization**: Training and validation loss, learning rate, and perplexity are tracked and visualized. BLEU score is computed for additional evaluation.
+6. **Evaluation & Visualization**: Training and validation loss, learning rate, and perplexity are tracked and visualized. BLEU score is computed for additional evaluation. Visualizations include:
+   - Training Loss Curve
+   - Learning Rate Schedule
+   - Train vs Validation Loss
+   - Loss Reduction Rate
 7. **Inference & Demo**: The fine-tuned model is tested with sample questions and deployed via a Gradio chatbot interface.
 8. **Experiment Table**: Hyperparameter experiments, GPU usage, and training time are summarized.
 9. **Qualitative Comparison**: Responses from the base and fine-tuned models are compared for key questions.
