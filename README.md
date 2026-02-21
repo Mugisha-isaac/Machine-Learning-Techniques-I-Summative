@@ -1,5 +1,13 @@
 # Finance Assistant: Domain-Specific LLM Fine-Tuning
 
+## Hosted Chatbot Demo
+
+Try the Finance Assistant chatbot live at:
+
+[Finance Assistant Chatbot (Hugging Face Spaces)](https://huggingface.co/spaces/isaacm26/finance-assistant-app)
+
+---
+
 ## Overview
 This project demonstrates the process of fine-tuning a pre-trained language model for a finance assistant chatbot. The notebook is designed for Google Colab and leverages parameter-efficient fine-tuning (LoRA) to adapt a large language model to the finance domain. The workflow includes data preparation, model training, evaluation, and deployment via a user-friendly web interface.
 
