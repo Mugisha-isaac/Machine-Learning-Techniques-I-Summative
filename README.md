@@ -8,7 +8,7 @@ You can open and run this notebook directly in Google Colab:
 
 Try the Finance Assistant chatbot live at:
 
-[Finance Assistant Chatbot (Hugging Face Spaces)](https://huggingface.co/spaces/isaacm26/finance-assistant-app)
+[Finance Assistant Chatbot (Hugging Face Spaces)](https://huggingface.co/spaces/isaacm26/finance-assistant-chatbot)
 
 ---
 
