@@ -1,8 +1,9 @@
 # Finance Assistant: Domain-Specific LLM Fine-Tuning
 
+
 ## Google Colab Notebook
-You can open and run this notebook directly in Google Colab:
-[Open in Colab](https://colab.research.google.com/drive/1lukNhV1V3Hi1JGGWMpPAGnh4A4D4SOf6?usp=sharing)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lukNhV1V3Hi1JGGWMpPAGnh4A4D4SOf6?usp=sharing)
 
 ## Hosted Chatbot Demo
 
