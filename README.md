@@ -2,7 +2,7 @@
 
 ## Google Colab Notebook
 You can open and run this notebook directly in Google Colab:
-[Open in Colab](https://colab.research.google.com/drive/1baVqY65ubGkCqNmAlqdrRN9P7gb3TZK2?usp=sharing)
+[Open in Colab](https://colab.research.google.com/drive/1lukNhV1V3Hi1JGGWMpPAGnh4A4D4SOf6?usp=sharing)
 
 ## Hosted Chatbot Demo
 
