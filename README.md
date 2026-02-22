@@ -5,19 +5,17 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lukNhV1V3Hi1JGGWMpPAGnh4A4D4SOf6?usp=sharing)
 
+
 ## Hosted Chatbot Demo
 
-Try the Finance Assistant chatbot live at:
-
-[Finance Assistant Chatbot (Hugging Face Spaces)](https://huggingface.co/spaces/isaacm26/finance-assistant-chatbot)
+[![Hugging Face Spaces](https://img.shields.io/badge/Spaces-Finance_Assistant-orange?logo=huggingface&logoColor=white)](https://huggingface.co/spaces/isaacm26/finance-assistant-chatbot)
 
 ---
 
+
 ## Video Demo
 
-Watch the video demonstration here:
-
-[Finance Assistant Video Demo](https://www.veed.io/view/32ace9b0-34a6-4f7b-bdbf-841036af669b?source=editor&panel=share)
+[![Video Demo](https://img.shields.io/badge/Watch%20Video-Demo-blueviolet?logo=video&logoColor=white)](https://www.veed.io/view/32ace9b0-34a6-4f7b-bdbf-841036af669b?source=editor&panel=share)
 
 ## Overview
 This project demonstrates fine-tuning a pre-trained language model for a finance assistant chatbot using the FinanceQA dataset from Hugging Face. The notebook is designed for Google Colab and leverages parameter-efficient fine-tuning (LoRA) to adapt google/gemma-3-1b-it to the finance domain. The workflow includes secure authentication for gated datasets, modular code structure, model training, evaluation, and deployment via a modern Gradio web interface with custom CSS.
